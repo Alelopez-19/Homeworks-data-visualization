@@ -7,4 +7,4 @@ tensorflow
 statistics
 matplotlib
 seaborn
-sklearn
+SKLEARN_ALLOW_DEPRECATED_SKLEARN_PACKAGE_INSTALL=True
