@@ -1,9 +1,9 @@
-numpy==1.23.5
+numpy
 scikit-learn
 pandas
 matplotlib
 plotly
-streamlit==1.12.0 
+streamlit
 setuptools
 seaborn
 
