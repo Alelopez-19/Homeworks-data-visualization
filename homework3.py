@@ -3,7 +3,6 @@ import pandas as pd
 import plotly.express as px
 import statistics
 import numpy as np
-import scikit-learn
 import matplotlib.pyplot as plt
 import seaborn as sns
 import plotly.graph_objects as go
