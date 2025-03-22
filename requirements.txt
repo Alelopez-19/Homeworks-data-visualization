@@ -2,8 +2,8 @@ numpy==1.23.5
 scikit-learn
 pandas
 matplotlib
-tensorflow==2.12.0
+tensorflow
 plotly
 streamlit
 setuptools
-python3-distutils
+
